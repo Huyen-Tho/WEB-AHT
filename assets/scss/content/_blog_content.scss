@@ -1,0 +1,107 @@
+#blog{
+    margin-top: 990px;
+    width: 100%;
+    height: 800px;
+    background: #faf9f9;
+    
+}
+
+#blog .blog-text{
+    font-size: 56px;
+    color: #333333;
+    font-weight: 700;
+    font-family: "Cormorant Garamond";
+    text-align: center;
+    margin-bottom: 80px;
+    /* margin-top: 600px; */
+}
+
+#blog .blog-item-1{
+    margin-left: 150px;
+    float: left;
+    height: 500px;
+    width: 340px;
+    background: white;
+    margin-right: 20px;
+}
+
+#blog .blog-item{
+    height: 500px;
+    width: 340px;
+    float: left;
+    background: white;
+    margin-right: 20px;
+}
+
+
+
+#blog .blog-img{
+    width: 340px;
+    height: 200px;
+    margin-right: 20px;
+}
+
+
+
+#blog .blog-p{
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 24px;
+    color: #cccccc;
+    font-weight: 400;
+    font-family: "Fira Sans";
+    margin: 28px 30px;
+}
+
+#blog .blog-h{
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 32px;
+    color: #333333;
+    font-weight: 700;
+    margin-bottom: 75px;
+    margin-left: 34px;
+}
+
+
+
+#blog hr{
+    border: 0.5px solid #e4dcdc;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+#blog .button-blog{
+    margin-top: 600px;
+    text-align: center;
+}
+
+#blog .btn{
+    background: white;
+    font-size: 24px;
+    line-height: 28px;
+    color: #333333;
+    font-weight: 400;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    margin-top: 50px;
+}
+
+#blog .blog-icon{
+    margin-left: 30px;
+    color: #92c5d9;
+    margin-right: 10px;
+}
+
+#brand{
+    margin-left: 150px;
+    
+}
+
+#brand .brand-img{
+    margin-top: 73px;
+    margin-right: 50px;
+}

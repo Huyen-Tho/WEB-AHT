@@ -1,0 +1,147 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#main{
+
+}
+
+#header{
+    position: relative;
+}
+
+#header .header-img{
+    width: 100%;
+    position: absolute;
+    
+}
+
+#header .menu-header{
+    width: 100%;
+    position: absolute;
+    /* float: left; */
+}
+
+#header .logo{
+    margin: 25px 0 0 100px;
+   height: 50px;
+}
+
+#header .icon{
+    float: right;
+    margin: 30px 100px 0 0;
+}
+
+#header .icon-header{
+    margin-left: 40px;
+}
+
+#header .header-text{
+    float: left;
+}
+
+#header .text-content{
+    font-size: 24px;
+    letter-spacing: 12px;
+    color:#696969;
+    font-weight: 400;
+    font-family: "Fira Sans";
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-bottom: 60px;
+}
+
+#header .text-big{
+    width: 900px;
+    font-size: 70px;
+    letter-spacing: 30px;
+    color: #333333;
+    font-weight: 600;
+    font-style: italic;
+    font-family: "Cormorant Garamond";
+    margin-left: 200px;
+    text-transform: uppercase;
+    margin-bottom: 80px;
+}
+
+#header .button{
+    width: 197px;
+    height: 45px;
+    text-align: center;
+    margin-left: 200px;
+    background: black;
+    color:white;
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+
+#header .social{
+    margin-top: 200px;
+}
+
+#header .social-p{
+    
+    color:white;
+    font-size: 24px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+#header .box{
+   width:100% ;
+    margin-top: 170px;
+    /* float:left */
+}
+
+#header .box-1{
+    width: calc(100%/5);
+     height: 80px;
+     border-bottom:1px solid #efefef;
+     border-right:1px solid #efefef;
+    float: left;
+}
+
+#header .box-2{
+    width: calc(100%/5);
+    height: 80px;
+    border-right:1px solid #efefef;
+    float: left;
+    border-bottom:1px solid #efefef;
+
+}
+
+#header .box-3{
+    width: calc(100%/5);
+    height: 80px;
+    border-right:1px solid #efefef;
+    float: left;
+    border-bottom:1px solid #efefef;
+}
+
+#header .box-4{
+    width: calc(100%/5);
+    height: 80px;
+    float: left;
+    border-right:1px solid #efefef;
+    border-bottom:1px solid #efefef;
+}
+
+#header h3{
+    margin: 22px 0 5px 0;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: #333333;
+    font-weight: 700;
+    font-family: "Cormorant Garamond";
+    
+}
+
+#header p{
+    text-align: center;
+    font-size: 12px;
+}
